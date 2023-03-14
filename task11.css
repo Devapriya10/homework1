@@ -8,6 +8,10 @@
     color: black;
     background-color: red;
 }
+.lo{
+    padding: 60px 0;
+    text-align: center;
+}
 .web{
     width: 1500px;
     height: 200px;
@@ -15,6 +19,10 @@
     background-color: green;
     text-align: center;
 
+}
+.we{
+    padding: 60px 0;
+    text-align: center;
 }
 .m{
     width: 1800px;
@@ -44,7 +52,7 @@
     
 }
 .centre{
-    padding: 60px 0;
+    padding: 100px 0;
     text-align: center;
 }
 .p3{
@@ -55,7 +63,7 @@
     text-align: center;
 }
 .centre{
-    padding: 60px 0;
+    padding: 100px 0;
     text-align: center;
 }
 .p4{
@@ -67,7 +75,7 @@
     
 }
 .centre{
-    padding: 60px 0;
+    padding: 100px 0;
     text-align: center;
 }
 .ps{
